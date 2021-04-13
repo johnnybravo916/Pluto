@@ -24,7 +24,7 @@ function App() {
 export default App;
 
 //TODO
-///get crypto api
+///get crypto api - done
 ///get stocks api
 
 ///output crypto api
